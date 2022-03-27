@@ -7,11 +7,11 @@
 
 <h3>Objetivo</h3>
 ● Criar um dos jogos mais populares, PACMAN.</br>
-● Aprender sobre o conceito de gruposs.</br>
+● Aprender sobre o conceito de grupos.</br>
 ● Entender como criar e lidar com grupos.</br>
-
+</br>
 Feito por: Louise Lalanne.</br>
-
+</br>
 This is the README file for the app tema de aniverásario app. It's a great place to write
 down some notes about how your app works. For starters, here is some information
 about the other files in this folder.
