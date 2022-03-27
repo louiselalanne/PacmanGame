@@ -1,4 +1,5 @@
-# PacmanGame
+<h1 align="center">Pacman Game</h1>
+<h4 align="center"> ✔️ Projeto concluído ✔️</h4>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100588945/160303355-c06e16a6-3c49-4d86-8132-2362e24d885d.gif"/>
