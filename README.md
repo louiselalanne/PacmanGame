@@ -5,12 +5,12 @@
 <img src="https://user-images.githubusercontent.com/100588945/160303355-c06e16a6-3c49-4d86-8132-2362e24d885d.gif"/>
 </p>
 
-<h3>Objetivo</h3>
+<h3 align="center">Objetivo</h3>
 ● Criar um dos jogos mais populares, PACMAN.</br>
 ● Aprender sobre o conceito de grupos.</br>
 ● Entender como criar e lidar com grupos.</br>
 </br>
-Feito por: Louise Lalanne.</br>
+Feito com ❤️ por Louise Lalanne 👋🏽 Entre em contato!
 </br>
 This is the README file for the Pacman Game. It's a great place to write
 down some notes about how your app works. For starters, here is some information
