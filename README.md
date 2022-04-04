@@ -11,7 +11,7 @@
 ● Entender como criar e lidar com grupos.</br>
 </br>
 Feito com ❤️ por Louise Lalanne 👋🏽 Entre em contato!
-</br>
+</br></br>
 This is the README file for the Pacman Game. It's a great place to write
 down some notes about how your app works. For starters, here is some information
 about the other files in this folder.
