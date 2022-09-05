@@ -8,4 +8,5 @@
 ● Criar um dos jogos mais populares, PACMAN.</br>
 ● Aprender sobre o conceito de grupos.</br>
 ● Entender como criar e lidar com grupos.</br>
+● Desenvolvido utilizando a biblioteca P5</br>
 </p>
